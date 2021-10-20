@@ -1,0 +1,9 @@
+.leftPS6X {
+    position: relative;
+}
+
+.menuOfCarts {
+    position: absolute;
+    right: 1px;
+    top: 10px;
+}

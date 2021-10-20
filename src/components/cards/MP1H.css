@@ -1,0 +1,13 @@
+.leftMP1H {
+    position: relative;
+}
+
+.headerMP1H {
+    position: relative;
+}
+
+.menuOfCarts {
+    position: absolute;
+    right: 1px;
+    top: 10px;
+}

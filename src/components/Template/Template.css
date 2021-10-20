@@ -1,0 +1,10 @@
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mainTemplate
+{
+   overflow: hidden;
+}

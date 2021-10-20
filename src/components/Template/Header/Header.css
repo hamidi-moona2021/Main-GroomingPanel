@@ -1,0 +1,128 @@
+.bodyOfHeader {
+    border: 2px solid #274472;
+    border-radius: 5px;
+    padding: 19px;
+    margin-top: 3px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #E3E7F1 ;
+}
+
+option
+{
+    color: #0C2D48;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+select
+{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    margin: 0px 10px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-create
+{
+    color: black !important;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 12px;
+    background-color: #00B1B0 !important; 
+    border-radius: 5px;
+    border: transparent;
+    box-shadow: 0px 0px  5px rgba(25,25,112,0.3);
+    width: 170px;
+    margin: 0px 5px;
+}
+
+
+.send-final-info
+{
+    color: white !important;
+    font-size: 15px;
+    padding: 10px 12px;
+    background-color: #1C9B8E !important;
+    width: 250px;
+    margin-top: 13px;
+    box-shadow: 0px 0px  4px rgba(25,25,112,0.8);
+}
+
+.btn-create:hover
+{
+    box-shadow: 0px 0px  6px rgba(25,25,112,0.8);
+    transition: all 0.5s;
+}
+
+/* .source {
+    padding: 2px;
+}
+
+.dest {
+}
+
+.demand{
+    padding-right: 10px;
+}
+.rack {
+    padding: 2px;
+}
+
+.shelves {
+    padding: 2px;
+} */
+
+.box
+{
+    border-radius: 5px;
+    margin: 5px 10px;
+    padding: 8px 5px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    /* box-shadow: 0px 0px  2px rgba(25,25,112,0.5); */
+    background-color: transparent;
+}
+
+  
+fieldset
+{
+  background-color:#CCC;
+  max-width:500px;
+  padding:16px;	
+  border: 1px solid #274472 !important;
+}
+
+legend
+{
+    margin-bottom: 0px !important;
+    margin-left: 56% !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    padding: 0px 15px !important;
+    border: 1px solid transparent !important;
+    text-align: left !important;
+    width: 141px !important;
+    border: 1px solid #274472 !important;
+}
+
+.form-control
+{
+    margin: 0px 10px !important;
+}

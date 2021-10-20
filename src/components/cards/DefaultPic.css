@@ -1,0 +1,25 @@
+.defaultPic {
+
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+.bodyOfCarts {
+    position: relative;
+
+}
+
+.menuOfImg {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 125px;
+    height: 25px;
+    position: absolute;
+    right: 7px;
+    top: 10px;
+
+}
+

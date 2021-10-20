@@ -1,0 +1,119 @@
+
+.tooltipHidden {
+    visibility: hidden;
+}
+
+.tooltipVisible {
+    visibility: visible;
+}
+
+.bodyOfLeftTemp {
+    border: 2px solid #274472;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0px 15rem 1rem 12px;
+    width: 18%;
+    float: left;
+    margin-right: 0px;
+    background-color: #E3E7F1;
+    height: 750px;
+}
+
+.labels
+{
+    color: #0C2D48;
+    padding: 5px 18px;
+    list-style-type: none;
+    width: 120px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 2px solid #274472;
+    border-radius: 5px;
+    width: 100%;
+    margin: 0px;
+    background-color: #B1D4E0;
+}
+
+.rightTempItem
+{
+    background-color: rgb(221, 221, 221);
+    width: 97%;
+    margin: 2px -26px 7px 5px;
+}
+
+.optionsLOV1 div:hover {
+    background-color: beige;
+    cursor: pointer;
+}
+
+.optionsLOV2 div:hover {
+    cursor: pointer;
+    background-color: beige;
+}
+
+.optionsLOV3 div:hover {
+    cursor: pointer;
+    background-color: beige;
+}
+
+.optionsLOV1 {
+    overflow: auto;
+    height: 130px;
+    border: 2px solid #274472;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.optionsLOV2 {
+    overflow: auto;
+    height: 130px;
+    border: 2px solid #274472;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.optionsLOV3 {
+    overflow: auto;
+    height: 130px;
+    border: 2px solid #274472;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.optionsLOV1 option:hover {
+    background-color: beige;
+}
+
+.optionsLOV2 option:hover {
+    background-color: beige;
+}
+
+.optionsLOV3 option:hover {
+    background-color: beige;
+}
+
+.optionsLOV1 option {
+    float: left;
+    width: 50%;
+    font-family: initial
+}
+
+.optionsLOV2 option {
+    float: left;
+    width: 50%;
+    font-family: initial
+}
+
+.optionsLOV3 option {
+    float: left;
+    width: 50%;
+    font-family: initial
+}
+
+.card-item
+{
+    margin:12px 0px;
+}

@@ -1,0 +1,22 @@
+.leftMP2D {
+    position: relative;
+}
+
+.menuOfCarts {
+    position: absolute;
+    right: 1px;
+    top: 10px;
+}
+
+
+.headerMP2D {
+    position: relative;
+}
+
+.inputBody {
+    padding-top: 100px;
+}
+
+.socketsBody {
+    padding-left: 15px;
+}

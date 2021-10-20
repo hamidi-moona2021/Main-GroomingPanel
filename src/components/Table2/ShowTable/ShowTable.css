@@ -1,0 +1,94 @@
+.buttonShowTable {
+
+  /*border-color: skyblue;*/
+  border-radius: 5px;
+}
+
+
+
+/* 
+button {
+  background-color: white;
+} */
+
+button {
+  border-radius: 5px !important;
+  background-color: #EBE0D0;
+  box-shadow: 0px 0px 2px rgb(25 25 112 / 80%);
+  color: #0C2D48;
+  padding: 5px 2px !important;
+  list-style-type: none;
+  width: 100px;
+  font-size: 14px !important;
+  font-weight: bold;
+  border: 1px solid #145DA0;
+}
+
+
+.calendarContainer .dayWrapper button {
+  border: none;
+
+  outline: none;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  font-size: 1.1em;
+  line-height: 1.5;
+}
+
+.calendarContainer .dayWrapper button:hover {
+  background-color: skyblue;
+}
+
+button {
+  margin: 1px;
+}
+
+.calendarContainer .heading {
+  height: auto;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+.calendarContainer .dayWrapper {
+  float: left;
+  width: 14.28571429%;
+   margin-top:0px;
+  position: relative;
+}
+
+.selectToday {
+  display: block;
+  width: 100%;
+  background: #4285f4;
+  color: #fff;
+  outline: 0;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  padding: 5px 0 7px 0;
+  margin-top: 0rem;
+  -webkit-transition: .2s all ease-in-out;
+  transition: .2s all ease-in-out;
+  -webkit-transition-property: background;
+  transition-property: background;
+}
+.calendarContainer {
+  position: relative;
+   border-radius: 4px;
+   -webkit-box-shadow: 0 3px 15px rgba(0,0,0,.2);
+  box-shadow: 0 3px 15px rgba(0,0,0,.2);
+  width: 320px;
+   margin: auto;
+  text-align: center;
+  padding: 7px;
+  background-color: #fff;
+}
+
+
+.calendarContainer .heading .prev {
+  width: 42px;
+   height: 0px;
+  border-radius: 50%;
+  margin: 0;
+}
